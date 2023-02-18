@@ -1,0 +1,7 @@
+body {
+    background-color: #ece7e1 !important;
+}
+
+button, img{
+    cursor: pointer;
+}

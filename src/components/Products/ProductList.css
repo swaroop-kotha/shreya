@@ -1,0 +1,20 @@
+.product__desc h6{
+    color: #0d0f28;
+    text-transform: uppercase;
+}
+.product__desc h5{
+    color: #0d0f28;
+    text-transform: capitalize;
+    font-size: 2rem;
+}
+.product__desc p{
+    color: #454545;
+}
+.product__desc > button{
+    color: #454545;
+    width: 10rem;
+    border: none;
+    background: none;
+    text-transform: capitalize;
+    font-weight: 500;
+}

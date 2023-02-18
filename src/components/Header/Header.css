@@ -1,0 +1,23 @@
+.btn__primary{
+    background-color: #0d0f28;
+    color: #ffffff;
+    border-color: #0d0f28;
+    text-transform: capitalize;
+    border-radius: 2rem;
+    padding: 0.3rem 2rem;
+}
+.navbar__section .nav > li{
+    padding: .5rem 1rem;
+}
+
+.navbar__section .nav > li > a{
+    color: #0d0f28;
+    text-transform: capitalize;
+    font-weight: 500;
+    padding: 0;
+    border-bottom: 1px solid transparent;
+}
+
+.navbar__section .nav > li.active > a{
+    border-bottom: 1px solid #0d0f28;
+}

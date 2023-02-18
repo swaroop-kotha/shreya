@@ -1,0 +1,18 @@
+.banner__title{
+    color: #0d0f28;
+    font-size: 5rem;
+    text-transform: uppercase;
+}
+
+.banner__text{
+    color: #454545;
+}
+
+.btn__secondary{
+    background-color: #e95c3d;
+    border-radius: 2rem;
+    padding: 0.5rem 2rem;
+    border: 1px solid #e95c3d;
+    color: #ffffff;
+    text-transform: capitalize;
+}
